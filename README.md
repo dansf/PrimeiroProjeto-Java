@@ -9,6 +9,7 @@
     É apenas uma simulação de um carro ligando e acelerando, utilizando classes.
 </p>
 <p>
-    Fiz um projeto em programação estruturada, eis aqui o <b><a href="https://github.com/dansf/Primeiro-Projeto-Dev">link</a></b>.
+    Fiz um projeto em programação estruturada, eis aqui o link: 
+    <a href="https://github.com/dansf/Primeiro-Projeto-Dev">https://github.com/dansf/Primeiro-Projeto-Dev</a>.
 </p>
 
